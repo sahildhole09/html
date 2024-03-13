@@ -1,0 +1,22 @@
+header{
+    color: black;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: larger;
+}
+.sahil{
+    color: blue;
+    text-align: center;
+}
+#git{
+    color: black;
+    font-style: oblique;
+    text-align: center;
+}
+
+body{
+    border-top: 5px dotted red;
+    border-right: 5px dashed violet;
+    border-bottom: 5px dotted brown;
+    border-left: 5px dashed orange;
+}
